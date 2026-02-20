@@ -1,0 +1,8 @@
+Strategy Recommendation 1
+
+Based on analysis, high-size traders experience significant drawdowns during Fear days.
+Reducing exposure during negative sentiment could improve risk-adjusted returns.
+
+Strategy Recommendation 2
+
+Frequent traders show improved profitability during Greed days, suggesting momentum-driven opportunities.

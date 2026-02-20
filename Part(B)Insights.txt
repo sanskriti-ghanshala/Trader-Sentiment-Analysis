@@ -1,0 +1,12 @@
+Insight 1:
+
+Fear days me average PnL lower hai compared to Greed days.
+This suggests traders struggle during negative sentiment periods.
+
+Insight 2:
+
+High Size traders show higher volatility in Fear periods, indicating higher risk exposure.
+
+Insight 3:
+
+Frequent traders perform better during Greed days but not during Fear days.
