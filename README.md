@@ -95,6 +95,15 @@ Adopt a long bias during Greed regimes and reduce directional exposure during Fe
 
 Introduce volatility filters that reduce exposure when daily PnL variance exceeds a threshold.
 
+
+## How to Run
+
+1. Install dependencies:
+pip install -r requirements.txt
+
+2. Open:
+trader_analysis.ipynb
+
 ## Conclusion
 
 This analysis demonstrates that market sentiment significantly influences trader behavior and performance.
