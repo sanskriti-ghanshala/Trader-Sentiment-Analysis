@@ -1,5 +1,5 @@
 # Trader-Sentiment-Analysis
-# Trader Performance vs Market Sentiment Analysis. Data Science Intern Assignment
+# Trader Performance vs Market Sentiment Analysis. Data Science Assignment
 
 ## Objective
 
